@@ -1,0 +1,15 @@
+C:\Users\youcef.kaddour\Desktop\Perso\Udemy - Developpeur c# - Formation complete 2022\Projets CSharp\nombre_magique\nombre_magique\bin\Debug\net6.0\nombre_magique.exe
+C:\Users\youcef.kaddour\Desktop\Perso\Udemy - Developpeur c# - Formation complete 2022\Projets CSharp\nombre_magique\nombre_magique\bin\Debug\net6.0\nombre_magique.deps.json
+C:\Users\youcef.kaddour\Desktop\Perso\Udemy - Developpeur c# - Formation complete 2022\Projets CSharp\nombre_magique\nombre_magique\bin\Debug\net6.0\nombre_magique.runtimeconfig.json
+C:\Users\youcef.kaddour\Desktop\Perso\Udemy - Developpeur c# - Formation complete 2022\Projets CSharp\nombre_magique\nombre_magique\bin\Debug\net6.0\nombre_magique.dll
+C:\Users\youcef.kaddour\Desktop\Perso\Udemy - Developpeur c# - Formation complete 2022\Projets CSharp\nombre_magique\nombre_magique\bin\Debug\net6.0\ref\nombre_magique.dll
+C:\Users\youcef.kaddour\Desktop\Perso\Udemy - Developpeur c# - Formation complete 2022\Projets CSharp\nombre_magique\nombre_magique\bin\Debug\net6.0\nombre_magique.pdb
+C:\Users\youcef.kaddour\Desktop\Perso\Udemy - Developpeur c# - Formation complete 2022\Projets CSharp\nombre_magique\nombre_magique\obj\Debug\net6.0\nombre_magique.csproj.AssemblyReference.cache
+C:\Users\youcef.kaddour\Desktop\Perso\Udemy - Developpeur c# - Formation complete 2022\Projets CSharp\nombre_magique\nombre_magique\obj\Debug\net6.0\nombre_magique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\youcef.kaddour\Desktop\Perso\Udemy - Developpeur c# - Formation complete 2022\Projets CSharp\nombre_magique\nombre_magique\obj\Debug\net6.0\nombre_magique.AssemblyInfoInputs.cache
+C:\Users\youcef.kaddour\Desktop\Perso\Udemy - Developpeur c# - Formation complete 2022\Projets CSharp\nombre_magique\nombre_magique\obj\Debug\net6.0\nombre_magique.AssemblyInfo.cs
+C:\Users\youcef.kaddour\Desktop\Perso\Udemy - Developpeur c# - Formation complete 2022\Projets CSharp\nombre_magique\nombre_magique\obj\Debug\net6.0\nombre_magique.csproj.CoreCompileInputs.cache
+C:\Users\youcef.kaddour\Desktop\Perso\Udemy - Developpeur c# - Formation complete 2022\Projets CSharp\nombre_magique\nombre_magique\obj\Debug\net6.0\nombre_magique.dll
+C:\Users\youcef.kaddour\Desktop\Perso\Udemy - Developpeur c# - Formation complete 2022\Projets CSharp\nombre_magique\nombre_magique\obj\Debug\net6.0\ref\nombre_magique.dll
+C:\Users\youcef.kaddour\Desktop\Perso\Udemy - Developpeur c# - Formation complete 2022\Projets CSharp\nombre_magique\nombre_magique\obj\Debug\net6.0\nombre_magique.pdb
+C:\Users\youcef.kaddour\Desktop\Perso\Udemy - Developpeur c# - Formation complete 2022\Projets CSharp\nombre_magique\nombre_magique\obj\Debug\net6.0\nombre_magique.genruntimeconfig.cache
